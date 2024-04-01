@@ -10,6 +10,7 @@ The majority of the code is used to scrap the matches data from some website
 Caution : Please do not initiate a scrap of a league on the websites as it could lead to server overload.
 
 After this, we want to create an environnement to train an agent to bet to maximise the profit
+
 Finnally, we will create a WebApp to show to users whats the best matches to bet on.
 
 Note: This project is a redesign of an older project to make it more efficient and better structured
