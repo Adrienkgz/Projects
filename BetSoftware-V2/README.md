@@ -1,6 +1,6 @@
-#BetSoftware
+# BetSoftware
 
-BetSoftware is a project divided into several area
+BetSoftware is a project divided into several area: collects, simulates, AI, WebApp
 
 The First one is the data extraction of all the matches from several leagues in football and save it into a Database who have this architecture
 ![image](https://github.com/Adrienkgz/Projects/assets/127536195/42614d9f-4794-4307-ba3f-d1f65f771f36)
